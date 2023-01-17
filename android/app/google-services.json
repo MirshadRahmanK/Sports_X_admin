@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "204442230581",
+    "project_id": "sports-9c8b4",
+    "storage_bucket": "sports-9c8b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204442230581:android:603b92337b9b114fde767c",
+        "android_client_info": {
+          "package_name": "com.example.sports_score"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204442230581-9ajso85eqoj3rsvplplfhllgthvmjpq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChsQtd1BQnYplitZu2XAgGoU4OhCdH36E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204442230581-9ajso85eqoj3rsvplplfhllgthvmjpq9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "204442230581-q87s4hqcc7n2sfinibf4nkh53cq40ru9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sportsScore"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204442230581:android:91f026ef39465a05de767c",
+        "android_client_info": {
+          "package_name": "com.example.sports_x_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204442230581-9ajso85eqoj3rsvplplfhllgthvmjpq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChsQtd1BQnYplitZu2XAgGoU4OhCdH36E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204442230581-9ajso85eqoj3rsvplplfhllgthvmjpq9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "204442230581-q87s4hqcc7n2sfinibf4nkh53cq40ru9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sportsScore"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
